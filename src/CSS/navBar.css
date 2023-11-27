@@ -1,0 +1,14 @@
+#socialIcon {
+    width: 25px;
+    height: 25px;
+}
+#socialdiv {
+    margin-top: inherit;
+    display: inline-flex;
+    gap: 6px;
+}
+#myHeader {
+    margin-top: -4.8px;
+    position: sticky;
+    
+}
